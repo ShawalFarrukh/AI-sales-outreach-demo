@@ -118,6 +118,8 @@ This demo is intentionally minimal to highlight **concept, clarity, and extensib
 
 ## 📁 Project Structure
 
+```
+
 .
 ├── app.py # Streamlit app
 ├── test_api.py # API testing script
@@ -125,6 +127,8 @@ This demo is intentionally minimal to highlight **concept, clarity, and extensib
 ├── requirements.txt # Minimal dependencies
 ├── .gitignore # Environment & cache exclusions
 └── README.md
+
+```
 
 ---
 
@@ -159,20 +163,20 @@ Create a .env file in the root directory:
 `streamlit run app.py`
 
 
-## Notes
+## 📌 Notes
 
 - This is a demo / portfolio project
 - Not intended for production use as-is
 - Built to demonstrate AI workflow thinking, not UI polish
 
-## Possible Extensions
+## 👤 Possible Extensions
 
 - CRM integration (HubSpot, Salesforce)
 - Company enrichment APIs (e.g. Companies House, Clearbit)
 - Automated email sending (SendGrid, Gmail API)
 
 
-## Author
+## 📌 Author
 
 - Shawal Farrukh
 - Product & AI-focused builder
