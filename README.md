@@ -181,3 +181,12 @@ Create a .env file in the root directory:
 - Shawal Farrukh
 - Product & AI-focused builder
 - LinkedIn: https://www.linkedin.com/in/shawal-f/
+
+## 📸 Demo Screenshot
+
+### Streamlit UI
+![Streamlit UI](screenshots/Screenshot_1.jpg)
+
+### AI-Generated Outreach Message
+![Generated Message](screenshots/Screenshot_5.jpg)
+
