@@ -180,4 +180,4 @@ Create a .env file in the root directory:
 
 - Shawal Farrukh
 - Product & AI-focused builder
-- LinkedIn: https://www.linkedin.com/in/shawalfarrukh/
+- LinkedIn: https://www.linkedin.com/in/shawal-f/
