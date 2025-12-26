@@ -3,10 +3,14 @@
 ## 📸 Screenshots
 
 ### Context setup
-![Streamlit UI](screenshots/Screenshot_1.jpg)
+(screenshots/Screenshot_1.jpg)
 
 ### Bulk CSV Upload and Download
-![Generated Message](screenshots/Screenshot_5.jpg)
+(screenshots/Screenshot_5.jpg)
+
+(View more screenshots in the screenshot folder)
+
+
 
 A lightweight demo showcasing **AI-powered sales outreach automation** built with **Python + Streamlit**.  
 This project simulates how AI can help founders, operators, and sales teams generate **personalized outbound messages** using structured input data.
