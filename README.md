@@ -3,10 +3,10 @@
 ## 📸 Screenshots
 
 ### Context setup
-(screenshots/Screenshot_1.jpg)
+![](screenshots/Screenshot_1.jpg)
 
 ### Bulk CSV Upload and Download
-(screenshots/Screenshot_5.jpg)
+![](screenshots/Screenshot_5.jpg)
 
 (View more screenshots in the screenshot folder)
 
